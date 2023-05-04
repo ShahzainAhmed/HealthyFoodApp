@@ -73,6 +73,7 @@ class DiscoveryScreenState extends State<DiscoveryScreen> {
                 style: AppTypography.kExtraBold30
                     .copyWith(color: AppColors.kWhiteColor),
               ),
+              SizedBox(height: 10.h),
               Text(
                 "A super-fresh and zingy salad packed with green veg and gnarly, sticky-sweet chicken, topped with crispy shallots. Delicious!",
                 style: AppTypography.kMedium12.copyWith(
