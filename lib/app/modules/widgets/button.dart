@@ -11,7 +11,7 @@ class MyButton extends StatelessWidget {
     return Padding(
       padding: EdgeInsets.symmetric(horizontal: 20.w, vertical: 10.h),
       child: Container(
-        height: 60.h,
+        height: 45.h,
         width: double.maxFinite,
         decoration: BoxDecoration(
           gradient: const LinearGradient(
